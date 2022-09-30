@@ -22,9 +22,9 @@
                 </p>
 
                 <i class="fa-regular fa-envelope"></i> veljko.vracarevic@pmf.edu.rs <br>
-                <i class="fa-brands fa-instagram"></i> <a href="https://www.instagram.com/chosdevlog/">chosdevlog</a> <br>
-                <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/veljkovracarevic/">Let's Connect</a> <br>
-                <i class="fa-brands fa-git-alt"></i> <a href=""> GitHub </a>
+                <i class="fa-brands fa-instagram"></i> <a href="https://www.instagram.com/chosdevlog/" target="_blank">chosdevlog</a> <br>
+                <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/veljkovracarevic/" target="_blank">Let's Connect</a> <br>
+                <i class="fa-brands fa-git-alt"></i> <a href="https://github.com/Chothulhu" target="_blank"> GitHub </a>
             </div>
         </div>
         <div class="p-4 m-4 text-left bg-gray-200 bg-opacity-30 col-start-7 col-end-13 rounded-3xl shadow overflow-hidden">
